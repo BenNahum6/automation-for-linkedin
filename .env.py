@@ -1,2 +1,0 @@
-LINKEDIN_USERNAME=bennahum6@gmail.com
-LINKEDIN_PASSWORD=your_secure_password
